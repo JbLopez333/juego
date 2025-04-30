@@ -11,4 +11,4 @@ Este algoritmo fue creado en pseint **PSeINT** y tiene como objetivo generar ale
 - Se indica el final del proceso
 
 ## 📷 Captura de Pantalla
-
+<img src= "Ruleta de Premios Captura de Pantalla.JPG" />
